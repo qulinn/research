@@ -1,2 +1,2 @@
 # research
-Bachelor and master thesis related codes.
+Bachelor and master thesis related files.
