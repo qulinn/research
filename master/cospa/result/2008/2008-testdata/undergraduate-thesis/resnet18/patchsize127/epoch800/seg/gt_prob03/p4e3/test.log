@@ -1,0 +1,11 @@
+patch_imgs (7056, 127, 127, 3)
+model.input_shape (None, 127, 127, 3)
+patch_imgs (7056, 127, 127, 3)
+model.input_shape (None, 127, 127, 3)
+patch_imgs (7056, 127, 127, 3)
+model.input_shape (None, 127, 127, 3)
+patch_imgs (7056, 127, 127, 3)
+model.input_shape (None, 127, 127, 3)
+patch_imgs (7056, 127, 127, 3)
+model.input_shape (None, 127, 127, 3)
+segmentation time:  105.44554852996953
