@@ -5,7 +5,8 @@
 - cospaのデータセットの一つ
 - パッチ画像の生成元となる雲画像 : 2008年と2010年の雲画像データと，南極域に雲がかかっていない画像
 - 南極域に雲がかかっていない画像
-    <<img src="01210816_01210935_01210956_01211258_01211438_ch4.jpg", width="300">
+<img src="data/01210816_01210935_01210956_01211258_01211438_ch4.jpg" width="300">
+
 - パッチ画像の作成方法
     - positive patches : 雲領域のパッチを手動で切り取る
     - negative patches : 雲以外の領域を手動で切り取る
@@ -578,7 +579,7 @@
 <img src="seg/2006-testdata/p5e1/overlay_results/04092234_04100152_04100253_ch4.jpg" width="190">
 <img src="seg/2006-testdata/p5e1/overlay_results/04230255_04230613_04230856_ch4.jpg" width="190">
 <img src="seg/2006-testdata/p5e1/overlay_results/05080211_05080528_05080803_ch4.jpg" width="190">
-<img src="seg/2006-testdata/p5e1/overlay_results/08170150_08170507_08170734_ch4.jpg" width="190">
+<img src="seg/2006-testdata/p5e1/overlay_results/08170150_08170507_08170734_ch4.jpg" width="190">i
 <img src="seg/2006-testdata/p5e1/overlay_results/08190243_08190601_08190855_ch4.jpg" width="190">
 <img src="seg/2006-testdata/p5e1/overlay_results/08211016_08211338_08211519_ch4.jpg" width="190">
 <img src="seg/2006-testdata/p5e1/overlay_results/08220814_08221005_08221328_ch4.jpg" width="190">
