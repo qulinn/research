@@ -1,0 +1,75 @@
+-----
+/data/Users/izumi/cospa/result/2008/2009-testdata/resnet18/patchsize63/epoch500/seg/default
+block [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12]
+iou per prior/eta [0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.]
+dice per prior/eta [0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.]
+-----
+/data/Users/izumi/cospa/result/2008/2009-testdata/resnet18/patchsize63/epoch500/seg/p1e1
+block [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12]
+iou per prior/eta [0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.]
+dice per prior/eta [0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.]
+-----
+/data/Users/izumi/cospa/result/2008/2009-testdata/resnet18/patchsize63/epoch500/seg/p1e3
+block [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12]
+iou per prior/eta [0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.]
+dice per prior/eta [0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.]
+-----
+/data/Users/izumi/cospa/result/2008/2009-testdata/resnet18/patchsize63/epoch500/seg/p1e5
+block [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12]
+iou per prior/eta [0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.]
+dice per prior/eta [0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.]
+-----
+/data/Users/izumi/cospa/result/2008/2009-testdata/resnet18/patchsize63/epoch500/seg/p2e3
+block [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12]
+iou per prior/eta [0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.]
+dice per prior/eta [0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.]
+-----
+/data/Users/izumi/cospa/result/2008/2009-testdata/resnet18/patchsize63/epoch500/seg/p2e5
+block [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12]
+iou per prior/eta [0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.]
+dice per prior/eta [0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.]
+-----
+/data/Users/izumi/cospa/result/2008/2009-testdata/resnet18/patchsize63/epoch500/seg/p3e1
+block [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12]
+iou per prior/eta [0.         0.         0.         0.         0.00010586 0.
+ 0.         0.         0.         0.         0.         0.        ]
+dice per prior/eta [0.         0.         0.         0.         0.00010586 0.
+ 0.         0.         0.         0.         0.         0.        ]
+-----
+/data/Users/izumi/cospa/result/2008/2009-testdata/resnet18/patchsize63/epoch500/seg/p3e3
+block [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12]
+iou per prior/eta [0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.]
+dice per prior/eta [0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.]
+-----
+/data/Users/izumi/cospa/result/2008/2009-testdata/resnet18/patchsize63/epoch500/seg/p3e5
+block [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12]
+iou per prior/eta [0.00000000e+00 0.00000000e+00 0.00000000e+00 0.00000000e+00
+ 3.79946283e-05 0.00000000e+00 0.00000000e+00 0.00000000e+00
+ 0.00000000e+00 0.00000000e+00 0.00000000e+00 0.00000000e+00]
+dice per prior/eta [0.00000000e+00 0.00000000e+00 0.00000000e+00 0.00000000e+00
+ 3.79946283e-05 0.00000000e+00 0.00000000e+00 0.00000000e+00
+ 0.00000000e+00 0.00000000e+00 0.00000000e+00 0.00000000e+00]
+-----
+/data/Users/izumi/cospa/result/2008/2009-testdata/resnet18/patchsize63/epoch500/seg/p4e1
+block [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12]
+iou per prior/eta [0.         0.0041868  0.         0.         0.00401677 0.00128981
+ 0.         0.         0.         0.         0.         0.        ]
+dice per prior/eta [0.         0.0041868  0.         0.         0.00401677 0.00128981
+ 0.         0.         0.         0.         0.         0.        ]
+-----
+/data/Users/izumi/cospa/result/2008/2009-testdata/resnet18/patchsize63/epoch500/seg/p4e3
+block [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12]
+iou per prior/eta [0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.]
+dice per prior/eta [0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.]
+-----
+/data/Users/izumi/cospa/result/2008/2009-testdata/resnet18/patchsize63/epoch500/seg/p4e5
+block [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12]
+iou per prior/eta [0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.]
+dice per prior/eta [0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.]
+=====
+/data/Users/izumi/cospa/result/2008/2009-testdata/resnet18/patchsize63/epoch500/seg
+block [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12]
+iou per patch size [0.         0.0003489  0.         0.         0.00034672 0.00010748
+ 0.         0.         0.         0.         0.         0.        ]
+dice per patch size [0.         0.0003489  0.         0.         0.00034672 0.00010748
+ 0.         0.         0.         0.         0.         0.        ]

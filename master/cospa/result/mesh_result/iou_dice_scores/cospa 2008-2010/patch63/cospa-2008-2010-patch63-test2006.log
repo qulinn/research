@@ -1,0 +1,85 @@
+-----
+/data/Users/izumi/cospa/result/2008-2010/2006-testdata/additional_data/resnet18/patch_63/epoch600/seg/default
+block [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12]
+iou per prior/eta [0.         0.05824052 0.1176017  0.00135376 0.11479846 0.1242822
+ 0.00184087 0.04999413 0.25046408 0.         0.         0.01475802]
+dice per prior/eta [0.         0.05824052 0.1176017  0.00135376 0.11479846 0.1242822
+ 0.00184087 0.04999413 0.25046408 0.         0.         0.01475802]
+-----
+/data/Users/izumi/cospa/result/2008-2010/2006-testdata/additional_data/resnet18/patch_63/epoch600/seg/p1e1
+block [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12]
+iou per prior/eta [0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.]
+dice per prior/eta [0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.]
+-----
+/data/Users/izumi/cospa/result/2008-2010/2006-testdata/additional_data/resnet18/patch_63/epoch600/seg/p1e3
+block [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12]
+iou per prior/eta [0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.]
+dice per prior/eta [0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.]
+-----
+/data/Users/izumi/cospa/result/2008-2010/2006-testdata/additional_data/resnet18/patch_63/epoch600/seg/p1e5
+block [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12]
+iou per prior/eta [0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.]
+dice per prior/eta [0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.]
+-----
+/data/Users/izumi/cospa/result/2008-2010/2006-testdata/additional_data/resnet18/patch_63/epoch600/seg/p2e3
+block [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12]
+iou per prior/eta [0.         0.13619549 0.21413859 0.04626951 0.31281439 0.34128166
+ 0.02903825 0.26101366 0.36849612 0.         0.         0.04516127]
+dice per prior/eta [0.         0.13619549 0.21413859 0.04626951 0.31281439 0.34128166
+ 0.02903825 0.26101366 0.36849612 0.         0.         0.04516127]
+-----
+/data/Users/izumi/cospa/result/2008-2010/2006-testdata/additional_data/resnet18/patch_63/epoch600/seg/p2e5
+block [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12]
+iou per prior/eta [0.         0.03028103 0.0714299  0.00708566 0.07913604 0.02761337
+ 0.00225638 0.00832575 0.0387417  0.         0.         0.02852567]
+dice per prior/eta [0.         0.03028103 0.0714299  0.00708566 0.07913604 0.02761337
+ 0.00225638 0.00832575 0.0387417  0.         0.         0.02852567]
+-----
+/data/Users/izumi/cospa/result/2008-2010/2006-testdata/additional_data/resnet18/patch_63/epoch600/seg/p3e1
+block [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12]
+iou per prior/eta [0.         0.03280265 0.07859708 0.         0.05533084 0.01807067
+ 0.         0.00945234 0.03327704 0.         0.         0.        ]
+dice per prior/eta [0.         0.03280265 0.07859708 0.         0.05533084 0.01807067
+ 0.         0.00945234 0.03327704 0.         0.         0.        ]
+-----
+/data/Users/izumi/cospa/result/2008-2010/2006-testdata/additional_data/resnet18/patch_63/epoch600/seg/p3e3
+block [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12]
+iou per prior/eta [0.         0.08150068 0.15370007 0.00662551 0.08953895 0.20325151
+ 0.02457372 0.05330847 0.22435839 0.         0.         0.01718574]
+dice per prior/eta [0.         0.08150068 0.15370007 0.00662551 0.08953895 0.20325151
+ 0.02457372 0.05330847 0.22435839 0.         0.         0.01718574]
+-----
+/data/Users/izumi/cospa/result/2008-2010/2006-testdata/additional_data/resnet18/patch_63/epoch600/seg/p3e5
+block [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12]
+iou per prior/eta [0.         0.11110247 0.22350244 0.03202548 0.30062971 0.35334234
+ 0.09149539 0.29930827 0.38291456 0.         0.         0.01457711]
+dice per prior/eta [0.         0.11110247 0.22350244 0.03202548 0.30062971 0.35334234
+ 0.09149539 0.29930827 0.38291456 0.         0.         0.01457711]
+-----
+/data/Users/izumi/cospa/result/2008-2010/2006-testdata/additional_data/resnet18/patch_63/epoch600/seg/p4e1
+block [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12]
+iou per prior/eta [0.         0.10015364 0.21996839 0.01982869 0.25338573 0.3452291
+ 0.02932674 0.06170601 0.14038096 0.         0.         0.02458859]
+dice per prior/eta [0.         0.10015364 0.21996839 0.01982869 0.25338573 0.3452291
+ 0.02932674 0.06170601 0.14038096 0.         0.         0.02458859]
+-----
+/data/Users/izumi/cospa/result/2008-2010/2006-testdata/additional_data/resnet18/patch_63/epoch600/seg/p4e3
+block [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12]
+iou per prior/eta [0.         0.08040249 0.0950879  0.00171605 0.01730739 0.0306508
+ 0.00111274 0.00116254 0.04607195 0.         0.         0.05166063]
+dice per prior/eta [0.         0.08040249 0.0950879  0.00171605 0.01730739 0.0306508
+ 0.00111274 0.00116254 0.04607195 0.         0.         0.05166063]
+-----
+/data/Users/izumi/cospa/result/2008-2010/2006-testdata/additional_data/resnet18/patch_63/epoch600/seg/p4e5
+block [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12]
+iou per prior/eta [0.         0.10289365 0.21017418 0.01855546 0.19949782 0.2449518
+ 0.02101057 0.05351251 0.10171977 0.         0.         0.01980297]
+dice per prior/eta [0.         0.10289365 0.21017418 0.01855546 0.19949782 0.2449518
+ 0.02101057 0.05351251 0.10171977 0.         0.         0.01980297]
+=====
+/data/Users/izumi/cospa/result/2008-2010/2006-testdata/additional_data/resnet18/patch_63/epoch600/seg
+block [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12]
+iou per patch size [0.         0.06113105 0.11535002 0.01112168 0.11853661 0.14072279
+ 0.01672122 0.06648197 0.13220205 0.         0.         0.01802167]
+dice per patch size [0.         0.06113105 0.11535002 0.01112168 0.11853661 0.14072279
+ 0.01672122 0.06648197 0.13220205 0.         0.         0.01802167]

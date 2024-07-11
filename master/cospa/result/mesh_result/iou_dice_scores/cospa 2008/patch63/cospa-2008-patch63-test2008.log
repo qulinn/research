@@ -1,0 +1,93 @@
+-----
+/data/Users/izumi/cospa/result/2008/2008-testdata/undergraduate-thesis/resnet18/patchsize63/epoch500/seg/testdatasize2048x2048/default
+block [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12]
+iou per prior/eta [0.         0.         0.         0.         0.         0.00287967
+ 0.0001701  0.00036476 0.03669672 0.         0.         0.        ]
+dice per prior/eta [0.         0.         0.         0.         0.         0.00287967
+ 0.0001701  0.00036476 0.03669672 0.         0.         0.        ]
+-----
+/data/Users/izumi/cospa/result/2008/2008-testdata/undergraduate-thesis/resnet18/patchsize63/epoch500/seg/testdatasize2048x2048/p1e1
+block [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12]
+iou per prior/eta [0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.]
+dice per prior/eta [0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.]
+-----
+/data/Users/izumi/cospa/result/2008/2008-testdata/undergraduate-thesis/resnet18/patchsize63/epoch500/seg/testdatasize2048x2048/p1e3
+block [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12]
+iou per prior/eta [0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.]
+dice per prior/eta [0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.]
+-----
+/data/Users/izumi/cospa/result/2008/2008-testdata/undergraduate-thesis/resnet18/patchsize63/epoch500/seg/testdatasize2048x2048/p1e5
+block [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12]
+iou per prior/eta [0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.]
+dice per prior/eta [0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.]
+-----
+/data/Users/izumi/cospa/result/2008/2008-testdata/undergraduate-thesis/resnet18/patchsize63/epoch500/seg/testdatasize2048x2048/p2e3
+block [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12]
+iou per prior/eta [0.         0.         0.00086525 0.         0.         0.00074491
+ 0.         0.00331257 0.02978378 0.         0.         0.        ]
+dice per prior/eta [0.         0.         0.00086525 0.         0.         0.00074491
+ 0.         0.00331257 0.02978378 0.         0.         0.        ]
+-----
+/data/Users/izumi/cospa/result/2008/2008-testdata/undergraduate-thesis/resnet18/patchsize63/epoch500/seg/testdatasize2048x2048/p2e5
+block [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12]
+iou per prior/eta [0.         0.         0.00010071 0.         0.         0.0035532
+ 0.         0.00026588 0.01599874 0.         0.         0.        ]
+dice per prior/eta [0.         0.         0.00010071 0.         0.         0.0035532
+ 0.         0.00026588 0.01599874 0.         0.         0.        ]
+-----
+/data/Users/izumi/cospa/result/2008/2008-testdata/undergraduate-thesis/resnet18/patchsize63/epoch500/seg/testdatasize2048x2048/p3e1
+block [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12]
+iou per prior/eta [0.         0.         0.00853435 0.         0.         0.0028773
+ 0.         0.00190955 0.06030425 0.         0.         0.        ]
+dice per prior/eta [0.         0.         0.00853435 0.         0.         0.0028773
+ 0.         0.00190955 0.06030425 0.         0.         0.        ]
+-----
+/data/Users/izumi/cospa/result/2008/2008-testdata/undergraduate-thesis/resnet18/patchsize63/epoch500/seg/testdatasize2048x2048/p3e3
+block [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12]
+iou per prior/eta [0.         0.         0.00168191 0.         0.         0.00265133
+ 0.00059655 0.00056514 0.05455396 0.         0.         0.        ]
+dice per prior/eta [0.         0.         0.00168191 0.         0.         0.00265133
+ 0.00059655 0.00056514 0.05455396 0.         0.         0.        ]
+-----
+/data/Users/izumi/cospa/result/2008/2008-testdata/undergraduate-thesis/resnet18/patchsize63/epoch500/seg/testdatasize2048x2048/p3e5
+block [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12]
+iou per prior/eta [0.00000000e+00 2.49596197e-05 1.50127217e-02 0.00000000e+00
+ 5.58806169e-04 2.19443637e-03 1.40942047e-03 2.78688908e-03
+ 6.51266746e-02 0.00000000e+00 0.00000000e+00 0.00000000e+00]
+dice per prior/eta [0.00000000e+00 2.49596197e-05 1.50127217e-02 0.00000000e+00
+ 5.58806169e-04 2.19443637e-03 1.40942047e-03 2.78688908e-03
+ 6.51266746e-02 0.00000000e+00 0.00000000e+00 0.00000000e+00]
+-----
+/data/Users/izumi/cospa/result/2008/2008-testdata/undergraduate-thesis/resnet18/patchsize63/epoch500/seg/testdatasize2048x2048/p4e1
+block [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12]
+iou per prior/eta [0.         0.         0.04020929 0.00514189 0.         0.00723407
+ 0.00265667 0.00288635 0.08132734 0.         0.         0.        ]
+dice per prior/eta [0.         0.         0.04020929 0.00514189 0.         0.00723407
+ 0.00265667 0.00288635 0.08132734 0.         0.         0.        ]
+-----
+/data/Users/izumi/cospa/result/2008/2008-testdata/undergraduate-thesis/resnet18/patchsize63/epoch500/seg/testdatasize2048x2048/p4e3
+block [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12]
+iou per prior/eta [0.00000000e+00 7.14582687e-05 2.91562262e-02 0.00000000e+00
+ 4.74214822e-04 7.17535796e-03 7.64257829e-04 2.38514449e-03
+ 6.45458101e-02 0.00000000e+00 0.00000000e+00 0.00000000e+00]
+dice per prior/eta [0.00000000e+00 7.14582687e-05 2.91562262e-02 0.00000000e+00
+ 4.74214822e-04 7.17535796e-03 7.64257829e-04 2.38514449e-03
+ 6.45458101e-02 0.00000000e+00 0.00000000e+00 0.00000000e+00]
+-----
+/data/Users/izumi/cospa/result/2008/2008-testdata/undergraduate-thesis/resnet18/patchsize63/epoch500/seg/testdatasize2048x2048/p4e5
+block [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12]
+iou per prior/eta [0.00000000e+00 4.41288214e-04 3.59647640e-02 0.00000000e+00
+ 6.89611953e-05 2.86273789e-03 3.77925363e-03 4.81269850e-03
+ 6.49320436e-02 0.00000000e+00 0.00000000e+00 0.00000000e+00]
+dice per prior/eta [0.00000000e+00 4.41288214e-04 3.59647640e-02 0.00000000e+00
+ 6.89611953e-05 2.86273789e-03 3.77925363e-03 4.81269850e-03
+ 6.49320436e-02 0.00000000e+00 0.00000000e+00 0.00000000e+00]
+=====
+/data/Users/izumi/cospa/result/2008/2008-testdata/undergraduate-thesis/resnet18/patchsize63/epoch500/seg/testdatasize2048x2048
+block [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12]
+iou per patch size [0.00000000e+00 4.48088418e-05 1.09604351e-02 4.28490613e-04
+ 9.18318488e-05 2.68108457e-03 7.81354212e-04 1.60741597e-03
+ 3.94391097e-02 0.00000000e+00 0.00000000e+00 0.00000000e+00]
+dice per patch size [0.00000000e+00 4.48088418e-05 1.09604351e-02 4.28490613e-04
+ 9.18318488e-05 2.68108457e-03 7.81354212e-04 1.60741597e-03
+ 3.94391097e-02 0.00000000e+00 0.00000000e+00 0.00000000e+00]

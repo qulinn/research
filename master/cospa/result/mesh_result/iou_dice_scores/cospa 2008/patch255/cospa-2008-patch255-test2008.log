@@ -1,0 +1,85 @@
+-----
+/data/Users/izumi/cospa/result/2008/2008-testdata/undergraduate-thesis/resnet18/patchsize255/epoch500/seg/default
+block [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12]
+iou per prior/eta [0.00329811 0.15144213 0.29981996 0.19192492 0.11520388 0.25312969
+ 0.20182695 0.2707433  0.2906831  0.         0.         0.        ]
+dice per prior/eta [0.00329811 0.15144213 0.29981996 0.19192492 0.11520388 0.25312969
+ 0.20182695 0.2707433  0.2906831  0.         0.         0.        ]
+-----
+/data/Users/izumi/cospa/result/2008/2008-testdata/undergraduate-thesis/resnet18/patchsize255/epoch500/seg/p1e1
+block [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12]
+iou per prior/eta [0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.]
+dice per prior/eta [0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.]
+-----
+/data/Users/izumi/cospa/result/2008/2008-testdata/undergraduate-thesis/resnet18/patchsize255/epoch500/seg/p1e3
+block [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12]
+iou per prior/eta [0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.]
+dice per prior/eta [0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.]
+-----
+/data/Users/izumi/cospa/result/2008/2008-testdata/undergraduate-thesis/resnet18/patchsize255/epoch500/seg/p1e5
+block [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12]
+iou per prior/eta [0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.]
+dice per prior/eta [0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.]
+-----
+/data/Users/izumi/cospa/result/2008/2008-testdata/undergraduate-thesis/resnet18/patchsize255/epoch500/seg/p2e3
+block [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12]
+iou per prior/eta [0.10070776 0.16748867 0.22590661 0.2953803  0.21370572 0.44082428
+ 0.395614   0.49945208 0.59201596 0.         0.04617079 0.23886404]
+dice per prior/eta [0.10070776 0.16748867 0.22590661 0.2953803  0.21370572 0.44082428
+ 0.395614   0.49945208 0.59201596 0.         0.04617079 0.23886404]
+-----
+/data/Users/izumi/cospa/result/2008/2008-testdata/undergraduate-thesis/resnet18/patchsize255/epoch500/seg/p2e5
+block [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12]
+iou per prior/eta [0.02610425 0.17502362 0.26558103 0.25104543 0.11504603 0.5149647
+ 0.44223959 0.40872735 0.64811884 0.         0.03393441 0.16871635]
+dice per prior/eta [0.02610425 0.17502362 0.26558103 0.25104543 0.11504603 0.5149647
+ 0.44223959 0.40872735 0.64811884 0.         0.03393441 0.16871635]
+-----
+/data/Users/izumi/cospa/result/2008/2008-testdata/undergraduate-thesis/resnet18/patchsize255/epoch500/seg/p3e1
+block [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12]
+iou per prior/eta [0.10330329 0.19021187 0.35086191 0.35941755 0.20450949 0.47858993
+ 0.48250452 0.62810962 0.57327907 0.         0.08930189 0.17706392]
+dice per prior/eta [0.10330329 0.19021187 0.35086191 0.35941755 0.20450949 0.47858993
+ 0.48250452 0.62810962 0.57327907 0.         0.08930189 0.17706392]
+-----
+/data/Users/izumi/cospa/result/2008/2008-testdata/undergraduate-thesis/resnet18/patchsize255/epoch500/seg/p3e3
+block [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12]
+iou per prior/eta [0.10184734 0.16289244 0.29170481 0.44205098 0.175893   0.47393245
+ 0.44298054 0.50837173 0.65461622 0.         0.02734634 0.15459984]
+dice per prior/eta [0.10184734 0.16289244 0.29170481 0.44205098 0.175893   0.47393245
+ 0.44298054 0.50837173 0.65461622 0.         0.02734634 0.15459984]
+-----
+/data/Users/izumi/cospa/result/2008/2008-testdata/undergraduate-thesis/resnet18/patchsize255/epoch500/seg/p3e5
+block [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12]
+iou per prior/eta [0.04891675 0.18878517 0.33228565 0.30101922 0.27474449 0.52599053
+ 0.52394226 0.67855997 0.66048228 0.         0.14417711 0.18121403]
+dice per prior/eta [0.04891675 0.18878517 0.33228565 0.30101922 0.27474449 0.52599053
+ 0.52394226 0.67855997 0.66048228 0.         0.14417711 0.18121403]
+-----
+/data/Users/izumi/cospa/result/2008/2008-testdata/undergraduate-thesis/resnet18/patchsize255/epoch500/seg/p4e1
+block [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12]
+iou per prior/eta [0.13517112 0.20900992 0.34914275 0.36873772 0.17917606 0.49007859
+ 0.50648971 0.62211051 0.65092455 0.         0.11374535 0.18137828]
+dice per prior/eta [0.13517112 0.20900992 0.34914275 0.36873772 0.17917606 0.49007859
+ 0.50648971 0.62211051 0.65092455 0.         0.11374535 0.18137828]
+-----
+/data/Users/izumi/cospa/result/2008/2008-testdata/undergraduate-thesis/resnet18/patchsize255/epoch500/seg/p4e3
+block [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12]
+iou per prior/eta [0.07959467 0.14387961 0.32192863 0.384099   0.21409135 0.50158935
+ 0.5089962  0.62397394 0.68615452 0.         0.09553152 0.18059449]
+dice per prior/eta [0.07959467 0.14387961 0.32192863 0.384099   0.21409135 0.50158935
+ 0.5089962  0.62397394 0.68615452 0.         0.09553152 0.18059449]
+-----
+/data/Users/izumi/cospa/result/2008/2008-testdata/undergraduate-thesis/resnet18/patchsize255/epoch500/seg/p4e5
+block [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12]
+iou per prior/eta [0.0973092  0.21726297 0.33820359 0.50991187 0.23366221 0.50178998
+ 0.55156963 0.6728582  0.67027867 0.         0.08688369 0.18218195]
+dice per prior/eta [0.0973092  0.21726297 0.33820359 0.50991187 0.23366221 0.50178998
+ 0.55156963 0.6728582  0.67027867 0.         0.08688369 0.18218195]
+=====
+/data/Users/izumi/cospa/result/2008/2008-testdata/undergraduate-thesis/resnet18/patchsize255/epoch500/seg
+block [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12]
+iou per patch size [0.05802104 0.13383303 0.23128625 0.25863225 0.14383602 0.34840746
+ 0.33801362 0.40940889 0.45221277 0.         0.05309092 0.12205108]
+dice per patch size [0.05802104 0.13383303 0.23128625 0.25863225 0.14383602 0.34840746
+ 0.33801362 0.40940889 0.45221277 0.         0.05309092 0.12205108]
