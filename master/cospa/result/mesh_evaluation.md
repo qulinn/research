@@ -12,6 +12,13 @@
 - patch255:　パッチ画像サイズが255x255[px]
 - test2009：テストデータ2009年に対しての結果
 
+# 雲画像と緯度経度を重ね合わせたもの
+<img src="overlay.jpg">
+
+# メッシュ（ブロック？）の設定
+<img src="mesh.jpg">
+
+
 ## テストデータにおける雲の出現率（全年度）
 <img src="mesh_result/figure/cloud_apperance_rate.png">
 
